@@ -4,6 +4,9 @@
   - [1. Prepare before](#1-prepare-before)
   - [2. Getting Start](#2-getting-start)
   - [3. Life Cycle](#3-life-cycle)
+  - [4. Component](#4-component)
+  - [5. Route](#5-route)
+  - [6. Template](#6-template)
 
 
 ## 1. Prepare before
@@ -47,6 +50,12 @@
 ```
 
 ## 3. Life Cycle
+
+## 4. Component
+
+## 5. Route
+
+## 6. Template
 
 
 
