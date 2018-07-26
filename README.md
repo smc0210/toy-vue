@@ -3,10 +3,11 @@
 - [Vue.js](#vuejs)
   - [1. Prepare before](#1-prepare-before)
   - [2. Getting Start](#2-getting-start)
-  - [3. Life Cycle](#3-life-cycle)
-  - [4. Component](#4-component)
-  - [5. Route](#5-route)
-  - [6. Template](#6-template)
+  - [3. Simple ES6](#3-simple-es6)
+  - [4. Life Cycle](#4-life-cycle)
+  - [5. Component](#5-component)
+  - [6. Route](#6-route)
+  - [7. Template](#7-template)
 
 
 ## 1. Prepare before
@@ -48,14 +49,15 @@
   </body>
 </html>
 ```
+## 3. [Simple ES6](https://github.com/smc0210/toyVuejs/tree/master/ES6)
 
-## 3. Life Cycle
+## 4. [Life Cycle](https://github.com/smc0210/toyVuejs/tree/master/Lifecycle)
 
-## 4. Component
+## 5. [Component](https://github.com/smc0210/toyVuejs/tree/master/Component)
 
-## 5. Route
+## 6. [Route](https://github.com/smc0210/toyVuejs/tree/master/Route)
 
-## 6. Template
+## 7. [Template](https://github.com/smc0210/toyVuejs/tree/master/Template)
 
 
 
